@@ -1,5 +1,5 @@
 [![CRAN version](https://img.shields.io/cran/v/grpCox?logo=R)](https://cran.r-project.org/web/packages/grpCox/index.html)
-[![downloads](https://cranlogs.r-pkg.org/badges/grpreg)](https://cran.r-project.org/package=grpCox)
+[![downloads](https://cranlogs.r-pkg.org/badges/grpCox)](https://cran.r-project.org/package=grpCox)
 
 # [Penalized Cox Model for High-Dimensional Data with Grouped Predictors](https://cran.r-project.org/web/packages/grpCox/index.html)
 
