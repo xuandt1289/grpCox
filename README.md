@@ -14,4 +14,4 @@
 
 ### Details of the algorithms used
 
-* [Breheny, P. and Huang, J. (2009) Penalized methods for bi-level variable selection.  *Statistics and its interface*, **2**: 369-380.](https://myweb.uiowa.edu/pbreheny/pdf/Breheny2009.pdf)
+* [X Dang (2021) Penalized Cox's proportional hazards model for high-dimensional survival data with grouped predictors.  *Statistics and Computing*.]
