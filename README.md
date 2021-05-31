@@ -11,10 +11,6 @@
 * To install the latest release version from CRAN: `install.packages("grpCox")`
 * To install the latest development version from GitHub: `remotes::install_github("xuandt1289/grpCox")`
 
-### Get started
-
-See the ["getting started" vignette](https://pbreheny.github.io/grpreg/articles/getting-started.html)
-
 ### Details of the algorithms used
 
 * [Breheny, P. and Huang, J. (2009) Penalized methods for bi-level variable selection.  *Statistics and its interface*, **2**: 369-380.](https://myweb.uiowa.edu/pbreheny/pdf/Breheny2009.pdf)
