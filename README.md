@@ -1,6 +1,6 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# joineRML <img src="man/figures/grpCox_logo.png" width = "175" height = "200" align="right" />
+# joineRML <img src="man/figures/logo.png" width = "175" height = "200" align="right" />
 
 <!-- badges: start -->
 
