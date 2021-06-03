@@ -1,3 +1,9 @@
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# joineRML <img src="man/figures/grpCox_logo.png" width = "175" height = "200" align="right" />
+
+<!-- badges: start -->
+
 [![CRAN version](https://img.shields.io/cran/v/grpCox?logo=R)](https://cran.r-project.org/web/packages/grpCox/index.html)
 [![CRAN RStudio mirror overall downloads](http://cranlogs.r-pkg.org/badges/grand-total/grpCox)](http://www.r-pkg.org/pkg/grpCox)
 [![downloads](https://cranlogs.r-pkg.org/badges/grpCox)](https://cran.r-project.org/package=grpCox)
