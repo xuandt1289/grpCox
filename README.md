@@ -14,4 +14,4 @@
 
 ### Details of the algorithms used
 
-* [X Dang (2021) Penalized Cox's proportional hazards model for high-dimensional survival data with grouped predictors.  *Statistics and Computing*.]
+
