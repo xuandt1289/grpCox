@@ -6,7 +6,7 @@
 
 [![CRAN version](https://img.shields.io/cran/v/grpCox?logo=R)](https://cran.r-project.org/web/packages/grpCox/index.html)
 [![CRAN RStudio mirror overall downloads](http://cranlogs.r-pkg.org/badges/grand-total/grpCox)](http://www.r-pkg.org/pkg/grpCox)
-[![downloads](https://cranlogs.r-pkg.org/badges/grpCox)](https://cran.r-project.org/package=grpCox)
+<! -- [![downloads](https://cranlogs.r-pkg.org/badges/grpCox)](https://cran.r-project.org/package=grpCox) -->
 
 # [Penalized Cox Model for High-Dimensional Data with Grouped Predictors](https://cran.r-project.org/web/packages/grpCox/index.html)
 
