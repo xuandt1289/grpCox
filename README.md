@@ -17,3 +17,10 @@
 
 * To install the latest release version from CRAN: `install.packages("grpCox")`
 * To install the latest development version from GitHub: `remotes::install_github("xuandt1289/grpCox")`
+
+### Contact  
+
+Feel free to contact me to discuss any issues, questions, or comments.
+
+* GitHub: [xuandt89](https://github.com/xuandt1289)
+* LinkedIn: [xuandt89](https://www.linkedin.com/in/xuandt/)
