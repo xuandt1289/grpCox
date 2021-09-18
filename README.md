@@ -20,7 +20,7 @@
 
 ### Details of the algorithms used
 
-* X Dang, S Huang, X Qian (2021) Penalized Cox’s Proportional Hazards Model for High Dimensional Survival Data with Grouped Predictors." *Statistics and Computing*
+* X Dang, S Huang, X Qian (2021) Penalized Cox’s Proportional Hazards Model for High Dimensional Survival Data with Grouped Predictors. *Statistics and Computing*
 
 
 ### Contact  
