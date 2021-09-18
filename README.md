@@ -18,6 +18,11 @@
 * To install the latest release version from CRAN: `install.packages("grpCox")`
 * To install the latest development version from GitHub: `remotes::install_github("xuandt1289/grpCox")`
 
+### Details of the algorithms used
+
+* X Dang, S Huang, X Qian (2021) Penalized Cox’s Proportional Hazards Model for High Dimensional Survival Data with Grouped Predictors." *Statistics and Computing*
+
+
 ### Contact  
 
 Feel free to contact me to discuss any issues, questions, or comments.
